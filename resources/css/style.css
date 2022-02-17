@@ -17,6 +17,12 @@ h2 {
   color: white;
 }
 
+.sell {
+  font-family: "Verdana";
+  font-size: 21px;
+  color: gray;
+}
+
 .download {
   color: aquamarine;
   font-size: 16px;
@@ -27,4 +33,5 @@ h2 {
 footer {
   text-align: right;
   color: gray;
+  font-family: "Verdana"
 }
