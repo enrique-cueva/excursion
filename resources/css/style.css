@@ -1,24 +1,22 @@
 * {
   background-color: black;
   text-align: center;
+  font-family: "Verdana";
 }
 
 h1 {
-  font-family: "Verdana";
   font-weight: normal;
   font-size: 50px;
   color: white;
 }
 
 h2 {
-  font-family: "Verdana";
   font-weight: 300;
   font-size: 42px;
   color: white;
 }
 
 .sell {
-  font-family: "Verdana";
   font-size: 21px;
   color: gray;
 }
@@ -26,12 +24,10 @@ h2 {
 .download {
   color: aquamarine;
   font-size: 16px;
-  font-family: "Verdana";
   text-decoration: underline;
 }
 
 footer {
   text-align: right;
   color: gray;
-  font-family: "Verdana"
 }
